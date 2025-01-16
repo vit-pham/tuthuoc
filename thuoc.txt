@@ -1,0 +1,18 @@
+START OF MEDICINE
+Ten:a
+Benh:a
+So luong:3
+HSD:20/6/2024
+END OF MEDICINE
+START OF MEDICINE
+Ten:b
+Benh:b
+So luong:5
+HSD:9/6/2023
+END OF MEDICINE
+START OF MEDICINE
+Ten:panadol
+Benh:dau dau
+So luong:3
+HSD:4/5/1025
+END OF MEDICINE
